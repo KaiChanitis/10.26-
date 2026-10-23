@@ -1,0 +1,6 @@
+{
+  "name": "10/26(一)中台參學行程",
+  "description": "10/26(一)中台參學行程導覽系統，包含時程表、行前準備清單與地點導航。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
