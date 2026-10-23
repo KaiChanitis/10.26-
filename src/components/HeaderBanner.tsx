@@ -6,7 +6,7 @@ export const HeaderBanner: React.FC = () => {
       {/* Official 中台世界 Logo (Replacing previous 卍 mark) */}
       <div className="absolute top-4 right-4 sm:top-5 sm:right-6 z-20">
         <img
-          src="/assets/aistudio/images_72e2b7cd.png"
+          src={`${import.meta.env.BASE_URL}assets/aistudio/images_72e2b7cd.png`}
           alt="中台世界 Logo"
           className="w-12 h-12 sm:w-14 sm:h-14 rounded-2xl shadow-md border border-[#E6C875]/40 object-cover"
         />
